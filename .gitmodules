@@ -1,0 +1,6 @@
+[submodule "MovieBrowserProjectFrontend"]
+	path = MovieBrowserProjectFrontend
+	url = https://github.com/gguinea/MovieBrowserProjectFrontend
+[submodule "MovieBrowserProjectBackend"]
+	path = MovieBrowserProjectBackend
+	url = https://github.com/gguinea/MovieBrowserProjectBackend
